@@ -24,7 +24,7 @@
 - **Languages:** Java, Go, SQL  
 - **Frameworks:** Spring Boot, Chi
 - **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Docker  
+- **Tools:** Git, Docker, Neovim
 - **Concepts:** REST API, Design Patterns, Agile/Scrum   
 
 <!--Intro end-->
