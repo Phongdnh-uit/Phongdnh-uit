@@ -39,7 +39,7 @@
 
 | Top Langs | WakaTime |
 | ----------- | ----------- |
-|<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phongdnh-uit&layout=compact" />|<img alt="Waka Time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Phongdnh-uit" /> |
+|<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phongdnh-uit&layout=compact" />|<img alt="Waka Time" src="https://github-readme-stats.vercel.app/api/wakatime?username=phongdnh" /> |
 
 </p>        
 <!--- stats (end) -->
