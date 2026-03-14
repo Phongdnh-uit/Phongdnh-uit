@@ -15,44 +15,31 @@
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-- 💻 Software Engineer | Backend Developer
+- 🏫 I am a junior at University of Information Technology - VNU / 🇺 🇮 🇹
+- 💻 Software Engineer | Fullstack Developer
 - 🚀 Passionate about building scalable and maintainable software systems
 - 🔧 Experienced in Java, Spring Boot, RESTful API design
-- 📚 Interested in clean code, software design patterns, and continuous learning
+- 📚 Interested in Clean Code, Software Design Patterns, and continuous learning
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Java, Go, SQL  
 - **Frameworks:** Spring Boot, Chi
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Docker, Neovim
-- **Concepts:** REST API, Design Patterns, Agile/Scrum   
+- **Databases:** MySQL, PostgreSQL, Redis, Neo4J, Milvus  
+- **Tools:** Git, Docker, Vim, Linux
+- **Concepts:** REST API, Design Patterns, Agile   
 
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Phongdnh-uit&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phongdnh-uit&theme=dark&hide_border=false" /> 
-<br></br>
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Phongdnh-uit&theme=dark&hide_border=false&no-bg=false&no-frame=false&langs_count=10"/>
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+## 💻️ Stats & Trophy
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Phongdnh-uit&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+| Basic Info | Streak |
+| ----------- | ----------- |
+|<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Phongdnh-uit&theme=catppuccin_mocha&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />|<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Phongdnh-uit&theme=catppuccin-frappe&border_radius=6&date_format=j%2Fn%5B%2FY%5D" /> |
+
+| Top Langs | WakaTime |
+| ----------- | ----------- |
+|<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phongdnh-uit&layout=compact" />|<img alt="Waka Time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Phongdnh-uit" /> |
 
 </p>        
 <!--- stats (end) -->
